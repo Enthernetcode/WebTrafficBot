@@ -1,0 +1,4 @@
+figlet -c  trafficBot
+
+python3 traffickbot.py >> tràffic.txt
+

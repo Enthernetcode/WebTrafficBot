@@ -1,0 +1,11 @@
+figlet -c setup trafficBot
+
+apt update && apt upgrade
+sleep 2s
+apt install python
+sleep 2s
+pip install webbrowser
+sleep 2s
+pip install time
+
+chmod +x trafficBot
