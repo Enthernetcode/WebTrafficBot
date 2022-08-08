@@ -2,13 +2,13 @@
 Webtraffic bot genarates traffic on any site. Url it's given
 
 ### To install
-'git clone https://github.com/Enthernetcode/WebTrafficBot.git'
+```git clone https://github.com/Enthernetcode/WebTrafficBot.git```
 > #### To setup
->'bash setup'
+>```bash setup```
 >> #### To run program
->>'bash trafficBot'
+>>```bash trafficBot```
 >>> #### Or
->>>'./trafficBot,
+>>>```./trafficBot```
 
 ##### I hope this tool was helpful to you
 
