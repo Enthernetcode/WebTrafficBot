@@ -1,4 +1,8 @@
 figlet -c  trafficBot
 
+echo Step1: enter url/weblink to send traffic
+
+echo Step2: enter number of traffic to send
+
 python3 traffickbot.py >> tràffic.txt
 

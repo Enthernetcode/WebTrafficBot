@@ -3,15 +3,15 @@
 Webtraffic bot genarates traffic on any site. Url it's given
 To install
  git close https://github.com/Enthernetcode/WebTrafficBot.git
-To setup
+####To setup
  bash setup
-To run program
+####To run program
   bash trafficBot
-Or
+####Or
  ./trafficBot
-I hope this tool was helpful to you
+#####I hope this tool was helpful to you
 
-To use after running program enter url link
-Then number of traffic u which to generate
+##To use after running program enter url link
+##Then number of traffic u which to generate
 
 ,👍👍
