@@ -19,7 +19,7 @@ Webtraffic bot genarates traffic on any site. Url it's given
 👍👍
 
 ```
-git clone https://github.com/Enthernetcode/WebTrafficBot.git```
+git clone https://github.com/Enthernetcode/WebTrafficBot.git
 cd WebTrafficBot
 bash setup
 bash trafficBot
