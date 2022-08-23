@@ -2,7 +2,6 @@
 #import os
 import webbrowser
 import time
-#x = 1
 
 try:
  link = input('enter link of site to traffic: ')
@@ -10,9 +9,10 @@ try:
  num = float(input('number of times to execute traffic: '))
  while visit < num:
   visit += 1
-  webbrowser.open(f'{link}')
+  webbrowser.open(f'{link}', proxies=proxies)
   time.sleep(2)
 except KeyboardInterrupt:
  print ('you have exited the programme')
 except ValueError:
  print ('must be a number')
+
