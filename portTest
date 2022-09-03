@@ -1,5 +1,0 @@
-#!/bin/bash
-
-echo enter port number :
-read port
-curl -v -x https://$port ipinfo.io
