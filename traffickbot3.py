@@ -8,8 +8,10 @@ url = input('Enter URL to Traffick: ')
 Tries = 0
 visit = float(input('Number of Traffic needed: '))
 while Tries < visit:
-         proxy = random.choice(ip_addresses)
-         proxies = f'https://{proxy}'
-         requests.get(url, proxies)
+         proxy = random.choices(ip_addresses)
+         proxies = f'http://{proxy}'
+         h=requests.get(url, proxies)
          Tries += 1
          time.sleep(10)
+#         print (h.text)
+         print (proxy)

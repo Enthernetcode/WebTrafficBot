@@ -17,3 +17,10 @@ Webtraffic bot genarates traffic on any site. Url it's given
 ##### Then number of traffic u which to generate
 
 👍👍
+
+```
+git clone https://github.com/Enthernetcode/WebTrafficBot.git
+cd WebTrafficBot
+bash setup
+bash trafficBot
+```
